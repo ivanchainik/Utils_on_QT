@@ -1,0 +1,14 @@
+{
+    "0": {
+        "blinking": true,
+        "primaryColor": "#ef2929",
+        "secondaryColor": "#fce94f",
+        "status": "HOLD"
+    },
+    "1": {
+        "blinking": true,
+        "primaryColor": "#f57900",
+        "secondaryColor": "#729fcf",
+        "status": "Empty"
+    }
+}

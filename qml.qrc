@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Mylist.qml</file>
+        <file>close.png</file>
+        <file>trash.png</file>
+        <file>first.json</file>
+    </qresource>
+</RCC>
